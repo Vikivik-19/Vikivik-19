@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Victoire Bergeron, and I am a third year software engineering co-op student at McGill 🏫
+
+### About me 
+- 🎬I am passionate about the intersection of art and technology, and dream of working in the special effects or video games industry in the future
+- 💼I have completed two internships in fintech
+- ♟️I love all things related to logic and strategy games
+- ✍️I am a big enjoyer of philosophy and social sciences 
