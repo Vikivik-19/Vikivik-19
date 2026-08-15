@@ -1,20 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Vikivik-19/Vikivik-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 My name is Victoire Bergeron, and I am a third year software engineering co-op student at McGill 🏫
 
 
@@ -27,7 +12,8 @@ Here's a project I'm particularly proud of: [Memento Mori](https://github.com/Vi
  - Game dev in Unity
  - Functional Programming 
  - RESTful APIs
- - Model Context Protocol servers and clients 
+ - Model Context Protocol servers and clients
+ - Web dev using Angular and Spring Boot 
 
 ### Fun facts 
 - 🎬I am passionate about the intersection of art and technology, and dream of working in the special effects or video games industry in the future
