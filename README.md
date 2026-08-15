@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Victoire Bergeron, and I am a third year software engineering co-op student at McGill 🏫
 
 
-Here's a project I'm particularly proud of: [Memento Mori]([url](https://github.com/Vikivik-19/GDM-Studios-Team-2))
+Here's a project I'm particularly proud of: [Memento Mori](https://github.com/Vikivik-19/GDM-Studios-Team-2)
 
 
 ### My skills 
