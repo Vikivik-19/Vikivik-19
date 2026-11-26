@@ -16,7 +16,7 @@ Here's a project I'm particularly proud of: [Memento Mori](https://github.com/Vi
  - Web dev using Angular and Spring Boot 
 
 ### Fun facts 
-- 🎬I am passionate about the intersection of art and technology, and dream of working in the special effects or video games industry in the future
+- 🎬I am passionate about the intersection of art and technology
 - 💼I have completed two internships in fintech
 - ♟️I love all things related to logic and strategy games
 - ✍️I am a big enjoyer of philosophy and social sciences
